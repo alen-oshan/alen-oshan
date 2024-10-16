@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **expressjs**
+- 💬 Ask me about **Javascipt C and Python**
 
 - 📫 How to reach me **alenoshan@gmail.com**
 
