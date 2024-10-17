@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Javascipt C and Python**
 
-- 📫 How to reach me **alenoshan@gmail.com**
-
 - ⚡ Fun fact **I write bugs faster than I can debug them… but I’m getting better!**
 
 <h3 align="left">Connect with me:</h3>
